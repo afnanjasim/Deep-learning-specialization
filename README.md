@@ -7,7 +7,7 @@ the reason I would like to create this repository is purely for academic use (in
 
 Please only use it as a reference. The  assignments are relatively easy to answer, hope you can have fun with the courses.
 
-#1. Neural Network and Deep Learning
+###1. Neural Network and Deep Learning
 Week 1
 Logistic Regression as a Neural Network
 

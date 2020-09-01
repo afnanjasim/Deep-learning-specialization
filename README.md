@@ -12,8 +12,11 @@ the reason I would like to create this repository is purely for academic use (in
 * Week 2
 	* Logistic Regression as a Neural Network
 * Week 3
+ 	* Planar data classification with one hidden layer
+* Week 4
 	* Building your Deep Neural Network - Step by Step
 	* Deep Neural Network Application-Image Classification
+ 
   
 ### 2. Improving Deep Neural Networks-Hyperparameter tuning, Regularization and Optimization
 * Week 1
